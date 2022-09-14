@@ -1,0 +1,487 @@
+Remove AdsColonistRemove AdsColonist
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Inactive. Leavers will not receive a karma penalty
+player1 placed a settlement
+player1 placed a road
+player2 placed a settlement
+player2 placed a road
+player3 placed a settlement
+player3 placed a road
+player4 placed a settlement
+player4 placed a road
+player4 placed a settlement
+player4 placed a road
+player4 received starting resources: woolorelumber
+player3 placed a settlement
+player3 placed a road
+player3 received starting resources: woolbricklumber
+player2 placed a settlement
+player2 placed a road
+player2 received starting resources: lumbergrainlumber
+player1 placed a settlement
+player1 placed a road
+player1 received starting resources: grainwool
+player1 rolled: dice_2 dice_1
+player1 got: wool
+player4 got: wool
+player3 got: wool
+player2 rolled: dice_6 dice_5
+player4 got: lumber
+player2 got: lumber
+player2 wants to give: lumber for: brick
+player3 rolled: dice_6 dice_6
+player3 built a road
+player4 rolled: dice_3 dice_5
+player1 got: grain
+player4 got: lumber
+player4 wants to give: wool for: grain
+player1 wants to give player4 : grain for: woolwool
+player1 rolled: dice_3 dice_1
+player1 got: ore
+player2 got: lumber
+player3 got: lumber
+player1 wants to give: grain for: lumber
+player1 wants to give: grain for: lumberwool
+player1 wants to give: grain for: lumberlumber
+player1 traded: grainfor: lumber with: player4
+player1 gave bank: woolwool and took brick
+player1 built a road
+player2 rolled: dice_6 dice_4
+player1 got: wool
+player4 got: ore
+player2 got: wool
+player3 got: ore
+player2 wants to give: lumber for: ore
+player1 wants to give player2 : ore for: lumberwool
+player3 rolled: dice_3 dice_5
+player1 got: grain
+player4 got: lumber
+player3 wants to give: wool for: grain
+player1 wants to give player3 : grain for: woolwool
+player1 wants to give player3 : grain for: lumber
+player1 traded: grainfor: lumber with: player3
+player4 rolled: dice_3 dice_2
+player4 got: ore
+player2 got: ore
+player3 got: lumber
+player4 wants to give: wool for: grain
+player4 wants to give: lumber for: grain
+player4 wants to give: woolwool for: grain
+player4 traded: woolwoolfor: grain with: player3
+player4 built a city: +1 VP
+player1 rolled: dice_2 dice_1
+player1 got: wool
+player4 got: wool
+player3 got: wool
+player1 wants to give: ore for: woolgrain
+player1 wants to give: ore for: wool
+player2 rolled: dice_4 dice_4
+player1 got: grain
+player4 got: lumber
+player2 gave bank: lumberlumberlumberlumber and took grain
+player3 rolled: dice_6 dice_1
+player3 moved robber robberto prob_6 grain tile
+player3 stole card from: player4
+player3 gave bank: woolwoolwoolwool and took brick
+player3 wants to give: ore for: grain
+player4 rolled: dice_2 dice_2
+player1 got: ore
+player2 got: lumber
+player3 got: lumber
+player4 wants to give: lumber for: brick
+player1 rolled: dice_4 dice_5
+player2 got: graingrain
+player3 got: grain
+player1 wants to give: grain for: wool
+player1 wants to give: ore for: brick
+player1 wants to give: grainore for: brick
+player1 wants to give: ore for: brick
+player1 bought development card
+player1 bought development card
+player2 rolled: dice_4 dice_5
+player2 got: graingrain
+player3 got: grain
+player2 gave bank: graingraingraingrain and took brick
+player2 built a road
+player3 rolled: dice_1 dice_6
+player3 discarding resource cards
+botBot is selecting cards to discard for player3
+player3 discarded: orelumberlumbergrain
+player3 moved robber robberto prob_5 ore tile
+player3 stole card from: player4
+player3 built a settlement: +1 VP
+player4 rolled: dice_5 dice_5
+player1 got: wool
+player4 got: ore
+player2 got: wool
+player3 got: ore
+player4 wants to give: lumber for: wool
+player1 rolled: dice_2 dice_1
+player1 got: wool
+player4 got: wool
+player3 got: wool
+player1 wants to give: wool for: grain
+player2 rolled: dice_4 dice_4
+player1 got: grain
+player4 got: lumber
+player3 rolled: dice_3 dice_4
+player3 moved robber robberto prob_6 grain tile
+player3 stole card from: player4
+player3 wants to give: wool for: grain
+player4 rolled: dice_5 dice_2
+player4 moved robber robberto prob_9 grain tile
+player4 stole card from: player3
+player4 wants to give: lumber for: grain
+player1 rolled: dice_2 dice_6
+player1 got: grain
+player4 got: lumber
+player1 wants to give: grain for: wool
+player1 wants to give: grain for: woolwool
+player1 wants to give: grain for: lumberwool
+player1 wants to give: grain for: lumber
+player1 traded: grainfor: lumber with: player4
+player1 used Year of Plenty card year of plenty
+player1 took from bank: brick brick
+player1 built a settlement: +1 VP
+player1 built a road
+player2 rolled: dice_1 dice_5
+player1 got: grain
+player4 got: graingrain
+player3 got: brickbrick
+player3 rolled: dice_5 dice_6
+player4 got: lumberlumber
+player2 got: lumber
+player3 wants to give: ore for: lumber
+player3 traded: orefor: lumber with: player2
+player3 built a road
+player4 rolled: dice_1 dice_6
+player4 discarding resource cards
+player4 discarded: orelumbergrainlumberlumber
+player4 moved robber robberto prob_4 lumber tile
+player4 stole card from: player3
+player4 wants to give: wool for: brick
+player1 rolled: dice_2 dice_5
+player1 moved robber robberto prob_5 ore tile
+UserYou stole: lumber from: player4
+player2 rolled: dice_6 dice_3
+player2 got: graingrain
+player3 got: grain
+player2 gave bank: graingraingraingrain and took lumber
+player2 wants to give: wool for: brick
+player3 rolled: dice_3 dice_1
+player1 got: ore
+player2 got: lumber
+player3 got: lumber
+player3 built a settlement: +1 VP
+player4 rolled: dice_1 dice_5
+player1 got: grain
+player4 got: graingrain
+player3 got: brickbrick
+player4 gave bank: graingraingraingrain and took brick
+player4 built a road
+player1 rolled: dice_3 dice_2
+prob_5 ore tile is blocked by the robber. No resources produced.
+player3 got: lumberlumber
+player1 wants to give: grain for: brick
+player1 wants to give: ore for: brick
+player1 wants to give: grainore for: brick
+player1 wants to give: grainore for: woolwool
+player1 traded: grainorefor: woolwool with: player2
+player1 gave bank: woolwool and took brick
+player1 built a settlement: +1 VP
+player2 rolled: dice_4 dice_6
+player1 got: wool
+player4 got: ore
+player2 got: wool
+player3 got: ore
+player2 wants to give: ore for: brick
+player2 traded: orefor: brick with: player3
+player2 built a settlement: +1 VP
+player3 rolled: dice_4 dice_1
+prob_5 ore tile is blocked by the robber. No resources produced.
+player3 got: lumberlumber
+player3 built a road
+player3 wants to give: lumber for: ore
+player4 rolled: dice_3 dice_2
+prob_5 ore tile is blocked by the robber. No resources produced.
+player3 got: lumberlumber
+player1 rolled: dice_5 dice_2
+player1 moved robber robberto prob_6 brick tile
+UserYou stole: lumber from: player3
+player2 rolled: dice_2 dice_2
+player1 got: oreore
+player2 got: lumber
+player3 got: lumber
+player2 wants to give: lumber for: wool
+player3 rolled: dice_4 dice_5
+player2 got: graingraingrain
+player3 got: grain
+player3 gave bank: lumberlumberlumber and took brick
+player3 built a road
+player3 wants to give: ore for: wool
+player4 rolled: dice_3 dice_2
+player4 got: oreore
+player2 got: ore
+player3 got: lumberlumber
+player4 wants to give: wool for: grain
+player1 rolled: dice_6 dice_3
+player2 got: graingraingrain
+player3 got: grain
+player2 rolled: dice_3 dice_4
+player2 discarding resource cards
+botBot is selecting cards to discard for player2
+player2 discarded: lumberlumbergraingraingrain
+player2 moved robber robberto prob_10 ore tile
+player2 stole card from: player3
+player2 built a city: +1 VP
+player3 rolled: dice_2 dice_1
+player1 got: woolwool
+player4 got: wool
+player3 got: wool
+player3 wants to give: lumber for: ore
+player3 bought development card
+player4 rolled: dice_6 dice_4
+prob_10 ore tile is blocked by the robber. No resources produced.
+player1 got: wool
+player2 got: woolwool
+player4 wants to give: wool for: grain
+player1 rolled: dice_4 dice_6
+prob_10 ore tile is blocked by the robber. No resources produced.
+player1 got: wool
+player2 got: woolwool
+player1 wants to give: wool for: grain
+player1 wants to give: wool for: ore
+player1 wants to give: lumber for: grain
+player1 wants to give: lumber for: ore
+player1 wants to give: lumberwool for: ore
+player1 traded: lumberwoolfor: ore with: player4
+player1 gave bank: woolwoolwoolwool and took graingrain
+player1 built a city: +1 VP
+player2 rolled: dice_5 dice_6
+player4 got: lumberlumber
+player2 got: lumber
+player2 gave bank: woolwoolwool and took brick
+player2 built a road
+player2 wants to give: lumber for: ore
+player3 rolled: dice_2 dice_5
+player4 discarding resource cards
+botBot is selecting cards to discard for player4
+player4 discarded: orewoolwoollumberlumber
+player3 moved robber robberto prob_8 lumber tile
+player3 stole card from: player4
+player3 used Monopoly card monopoly
+player3 stole 3: lumber
+player3 bought development card
+player4 rolled: dice_5 dice_6
+player4 got: lumberlumber
+player2 got: lumber
+player4 wants to give: lumber for: grain
+player1 rolled: dice_2 dice_3
+player4 got: oreore
+player2 got: oreore
+player3 got: lumberlumber
+player2 rolled: dice_4 dice_1
+player4 got: oreore
+player2 got: oreore
+player3 got: lumberlumber
+player2 gave bank: oreoreore and took brick
+player2 built a road
+player3 rolled: dice_2 dice_1
+player1 got: woolwoolwool
+player4 got: wool
+player3 got: wool
+player3 used Knight card knight
+player3 moved robber robberto prob_6 grain tile
+player3 stole: wool from you
+player3 gave bank: lumberlumberlumber and took brick
+player3 gave bank: lumberlumberlumber and took grain
+player3 built a settlement: +1 VP
+player4 rolled: dice_1 dice_5
+prob_6 grain tile is blocked by the robber. No resources produced.
+player3 got: brickbrickbrick
+player4 gave bank: oreoreoreore and took brick
+player4 wants to give: wool for: grain
+player1 used Knight card knight
+player1 moved robber robberto prob_6 brick tile
+UserYou stole: lumber from: player3
+player1 rolled: dice_6 dice_4
+player1 got: wool
+player4 got: ore
+player2 got: woolwool
+player3 got: ore
+player1 wants to give: wool for: brick
+player1 wants to give: lumber for: grain
+player1 wants to give: lumber for: ore
+player1 traded: lumberfor: ore with: player2
+player1 gave bank: woolwool and took grain
+player1 bought development card
+player2 rolled: dice_2 dice_3
+player4 got: oreore
+player2 got: oreore
+player3 got: lumberlumber
+player2 bought development card
+player2 wants to give: wool for: brick
+player3 rolled: dice_5 dice_5
+player1 got: wool
+player4 got: ore
+player2 got: woolwool
+player3 got: ore
+player3 gave bank: lumberlumberlumber and took grain
+player3 bought development card
+player4 rolled: dice_1 dice_6
+player4 discarding resource cards
+botBot is selecting cards to discard for player4
+player4 discarded: lumberwooloreoreore
+player4 moved robber robberto prob_9 grain tile
+player4 stole card from: player3
+player4 wants to give: lumber for: ore
+player1 rolled: dice_5 dice_2
+player1 moved robber robberto prob_6 brick tile
+UserYou stole: ore from: player3
+player2 rolled: dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+player1 got: graingrain
+player4 got: graingrain
+player2 wants to give: wool for: brick
+player2 used Road Building card road building
+player2 placed a road
+player2 received longest road: +2 VPs
+player2 placed a road
+player3 rolled: dice_4 dice_6
+player1 got: wool
+player4 got: ore
+player2 got: woolwool
+player3 got: ore
+player4 rolled: dice_4 dice_6
+player1 got: wool
+player4 got: ore
+player2 got: woolwool
+player3 got: ore
+player4 built a city: +1 VP
+player4 wants to give: brick for: grain
+player1 rolled: dice_6 dice_1
+player2 discarding resource cards
+botBot is selecting cards to discard for player2
+player2 discarded: orewoolwoolwoolwool
+player1 moved robber robberto prob_9 grain tile
+UserYou stole: lumber from: player2
+player1 wants to give: lumber for: ore
+player1 traded: lumberfor: ore with: player3
+player1 gave bank: woolwool and took ore
+player1 built a city: +1 VP
+player1 used Knight card knight
+player1 moved robber robberto prob_6 brick tile
+UserYou stole: lumber from: player3
+player2 rolled: dice_6 dice_3
+player2 got: graingraingraingrain
+player3 got: grain
+player2 gave bank: woolwoolwool and took ore
+player3 rolled: dice_3 dice_1
+player1 got: oreoreore
+player2 got: lumber
+player3 got: lumber
+player3 wants to give: brick for: wool
+player1 wants to give player3 : wool for: brickgrain
+player3 traded: brickfor: wool with: player2
+player4 rolled: dice_6 dice_5
+player4 got: lumberlumber
+player2 got: lumber
+player4 wants to give: lumber for: grain
+player4 built a road
+player1 rolled: dice_3 dice_3
+prob_6 brick tile is blocked by the robber. No resources produced.
+player1 got: graingrain
+player4 got: graingrain
+player1 wants to give: wool for: brick
+player1 wants to give: lumber for: grain
+player1 wants to give: lumber for: ore
+player1 built a city: +1 VP
+player2 rolled: dice_6 dice_6
+player2 gave bank: graingraingrain and took wool
+player2 built a settlement: +1 VP
+player2 wants to give: ore for: brick
+player3 rolled: dice_6 dice_6
+player2 got: brick
+player4 rolled: dice_4 dice_3
+player4 moved robber robberto prob_9 grain tile
+player4 stole card from: player2
+player4 built a settlement: +1 VP
+player4 built a road
+player1 rolled: dice_1 dice_6
+player1 moved robber robberto prob_9 grain tile
+UserYou stole: ore from: player2
+player1 wants to give: lumber for: grain
+player2 rolled: dice_1 dice_6
+player2 moved robber robberto prob_8 lumber tile
+player2 stole: lumber from you
+player2 wants to give: lumber for: brick
+player3 rolled: dice_3 dice_2
+player4 got: oreore
+player2 got: oreore
+player3 got: lumberlumber
+player3 bought development card
+player4 rolled: dice_6 dice_6
+player2 got: brick
+player4 wants to give: ore for: wool
+player1 rolled: dice_5 dice_6
+player4 got: lumberlumber
+player2 got: lumber
+player2 rolled: dice_5 dice_5
+player1 got: woolwool
+player4 got: oreore
+player2 got: woolwool
+player3 got: ore
+player2 built a road
+player2 wants to give: ore for: brick
+player3 rolled: dice_2 dice_2
+player1 got: oreoreore
+player2 got: lumber
+player3 got: lumber
+player3 used Knight card knight
+player3 moved robber robberto prob_5 ore tile
+player3 stole card from: player2
+player3 built a road
+player4 rolled: dice_1 dice_3
+player1 got: oreoreore
+player2 got: lumber
+player3 got: lumber
+player4 gave bank: oreore and took grain
+player4 built a city: +1 VP
+player1 rolled: dice_1 dice_5
+player1 got: graingrain
+player4 got: graingrain
+player3 got: brickbrickbrick
+player1 wants to give: ore for: grain
+player1 wants to give: oreore for: grain
+player1 wants to give: ore for: grain
+player1 wants to give: ore for: woolwool
+player1 bought development card
+player1 bought development card
+player1 gave bank: oreoreoreore and took grain
+player1 bought development card
+player2 rolled: dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+player3 got: lumberlumber
+player2 gave bank: lumberlumberlumber and took grain
+player3 rolled: dice_5 dice_6
+player4 got: lumberlumber
+player2 got: lumber
+player3 gave bank: lumberlumberlumber and took grain
+player3 gave bank: lumberlumberlumber and took wool
+player3 bought development card
+player4 rolled: dice_3 dice_5
+player1 got: lumbergraingraingraingrain
+player4 got: lumberlumberlumberlumber
+player4 gave bank: lumberlumberlumberlumber and took brick
+player4 built a road
+player1 rolled: dice_1 dice_2
+player1 got: woolwoolwoolwool
+player4 got: woolwool
+player3 got: wool
+player1 gave bank: woolwool and took brick
+player1 used Road Building card road building
+player1 placed a road
+player1 placed a road
+player1 built a settlement: +1 VP
+trophy player1 won the game! trophy
